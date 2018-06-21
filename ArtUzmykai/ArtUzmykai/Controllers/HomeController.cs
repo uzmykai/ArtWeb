@@ -18,7 +18,7 @@ namespace ArtUzmykai.Controllers
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
-
+            //About code added here
             return View();
         }
 

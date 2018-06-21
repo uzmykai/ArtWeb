@@ -12,6 +12,7 @@ namespace ArtUzmykai.Controllers
     {
         public IActionResult Index()
         {
+            //index code added here
             return View();
         }
 
